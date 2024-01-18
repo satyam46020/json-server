@@ -1,3 +1,44 @@
 {
-    "employees": []
-  }
+  "employees": [
+    {
+      "id": 1,
+      "firstName": "satyam",
+      "lastName": "kumar",
+      "email": "satyam@example.com",
+      "salary": "9000",
+      "date": "2019-04-11"
+    },
+    {
+      "id": 2,
+      "firstName": "john",
+      "lastName": "cena",
+      "email": "john@example.com",
+      "salary": "80000",
+      "date": "2019-04-17"
+    },
+    {
+      "id": 3,
+      "firstName": "virat",
+      "lastName": "kohli",
+      "email": "virat@example.com",
+      "salary": "79000",
+      "date": "2019-05-01"
+    },
+    {
+      "id": 4,
+      "firstName": "dave",
+      "lastName": "john",
+      "email": "dave@example.com",
+      "salary": "56000",
+      "date": "2019-05-03"
+    },
+    {
+      "id": 5,
+      "firstName": "priya",
+      "lastName": "jain",
+      "email": "jain@example.com",
+      "salary": "65000",
+      "date": "2019-06-13"
+    }
+  ]
+}
